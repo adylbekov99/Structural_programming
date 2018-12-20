@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c8ab41a-7ea6-492f-82c3-f09a5343cf7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem01/out/production/Lab05Problem01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem02/out/production/Lab05Problem02/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem03/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem03/out/production/Lab05Problem03/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/export.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/gluegen-rt-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/gluegen-rt-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/gluegen-rt-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/gluegen-rt-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/gluegen-rt-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/gluegen-rt-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/gluegen-rt-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/gluegen-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/jogl-all-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/jogl-all-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/jogl-all-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/jogl-all-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/jogl-all-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/jogl-all-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/jogl-all-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/lib/jogl-all.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/out/production/Lab05Problem04/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/out/production/Project0101/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/out/production/Project0102/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/out/production/Project1/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/out/production/Project1/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/out/production/Project1/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/out/production/Project1/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/out/production/Project1/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/out/production/Project1/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/out/production/Project1/Task09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/out/production/Project1/Task10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/out/production/Project1/Task11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/out/production/Project1/Task12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/export.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/gluegen-rt-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/gluegen-rt-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/gluegen-rt-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/gluegen-rt-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/gluegen-rt-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/gluegen-rt-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/gluegen-rt-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/gluegen-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/jogl-all-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/jogl-all-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/jogl-all-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/jogl-all-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/jogl-all-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/jogl-all-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/jogl-all-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/lib/jogl-all.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/out/production/Lab05Problem04/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/out/production/Lab05Problem05/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/out/production/Project0101/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/out/production/Project0102/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/out/production/Project1/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/out/production/Project1/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/out/production/Project1/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/out/production/Project1/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/out/production/Project1/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/out/production/Project1/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/out/production/Project1/Task09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/out/production/Project1/Task10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/out/production/Project1/Task11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/out/production/Project1/Task12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem06/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem06/out/production/Lab05Problem06/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem07/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem07/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem07/out/production/Lab05Problem07/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem07/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem08/out/production/Lab05Problem08/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab05Problem10/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem01/out/production/Lab06Problem01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem03/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem05/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem05/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem06/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab07/Lab07Problem01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab07/Lab07Problem01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab07/Lab07Problem01/out/production/Lab07Problem01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab07/Lab07Problem02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab07/Lab07Problem02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab07/Lab07Problem02/out/production/Lab07Problem02/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab07/Lab07Problem03/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab08/Lab08Problem01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab08/Lab08Problem01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab08/Lab08Problem01/out/production/Lab08Problem01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/Project0101.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/export.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/gluegen-rt-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/gluegen-rt-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/gluegen-rt-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/gluegen-rt-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/gluegen-rt-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/gluegen-rt-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/gluegen-rt-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/gluegen-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/jogl-all-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/jogl-all-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/jogl-all-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/jogl-all-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/jogl-all-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/jogl-all-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/jogl-all-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/lib/jogl-all.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/out/production/Project0101/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/out/production/Project0102/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/out/production/Project1/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/out/production/Project1/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/out/production/Project1/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/out/production/Project1/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/out/production/Project1/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/out/production/Project1/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/out/production/Project1/Task09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/out/production/Project1/Task10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/out/production/Project1/Task11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/out/production/Project1/Task12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/Project0102.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/export.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/gluegen-rt-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/gluegen-rt-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/gluegen-rt-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/gluegen-rt-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/gluegen-rt-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/gluegen-rt-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/gluegen-rt-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/gluegen-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/jogl-all-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/jogl-all-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/jogl-all-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/jogl-all-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/jogl-all-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/jogl-all-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/jogl-all-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/lib/jogl-all.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/out/production/Project0102/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/out/production/Project1/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/out/production/Project1/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/out/production/Project1/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/out/production/Project1/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/out/production/Project1/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/out/production/Project1/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/out/production/Project1/Task09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/out/production/Project1/Task10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/out/production/Project1/Task11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/out/production/Project1/Task12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/Project0103.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/export.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/gluegen-rt-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/gluegen-rt-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/gluegen-rt-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/gluegen-rt-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/gluegen-rt-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/gluegen-rt-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/gluegen-rt-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/gluegen-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/jogl-all-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/jogl-all-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/jogl-all-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/jogl-all-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/jogl-all-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/jogl-all-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/jogl-all-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/lib/jogl-all.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/out/production/Project0102/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/out/production/Project0103/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/out/production/Project1/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/out/production/Project1/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/out/production/Project1/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/out/production/Project1/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/out/production/Project1/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/out/production/Project1/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/out/production/Project1/Task09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/out/production/Project1/Task10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/out/production/Project1/Task11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/out/production/Project1/Task12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/Project0104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/export.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/gluegen-rt-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/gluegen-rt-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/gluegen-rt-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/gluegen-rt-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/gluegen-rt-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/gluegen-rt-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/gluegen-rt-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/gluegen-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/jogl-all-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/jogl-all-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/jogl-all-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/jogl-all-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/jogl-all-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/jogl-all-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/jogl-all-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/lib/jogl-all.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/out/production/Project0102/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/out/production/Project0104/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/out/production/Project1/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/out/production/Project1/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/out/production/Project1/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/out/production/Project1/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/out/production/Project1/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/out/production/Project1/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/out/production/Project1/Task09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/out/production/Project1/Task10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/out/production/Project1/Task11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/out/production/Project1/Task12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/Project0106.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/export.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/gluegen-rt-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/gluegen-rt-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/gluegen-rt-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/gluegen-rt-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/gluegen-rt-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/gluegen-rt-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/gluegen-rt-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/gluegen-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/jogl-all-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/jogl-all-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/jogl-all-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/jogl-all-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/jogl-all-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/jogl-all-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/jogl-all-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/lib/jogl-all.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/out/production/Project0102/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/out/production/Project0104/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/out/production/Project0106/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/out/production/Project1/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/out/production/Project1/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/out/production/Project1/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/out/production/Project1/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/out/production/Project1/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/out/production/Project1/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/out/production/Project1/Task09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/out/production/Project1/Task10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/out/production/Project1/Task11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/out/production/Project1/Task12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/Project0108.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/export.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/gluegen-rt-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/gluegen-rt-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/gluegen-rt-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/gluegen-rt-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/gluegen-rt-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/gluegen-rt-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/gluegen-rt-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/gluegen-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/jogl-all-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/jogl-all-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/jogl-all-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/jogl-all-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/jogl-all-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/jogl-all-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/jogl-all-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/lib/jogl-all.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/out/production/Project0102/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/out/production/Project0104/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/out/production/Project0108/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/out/production/Project1/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/out/production/Project1/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/out/production/Project1/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/out/production/Project1/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/out/production/Project1/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/out/production/Project1/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/out/production/Project1/Task09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/out/production/Project1/Task10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/out/production/Project1/Task11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/out/production/Project1/Task12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/Project0109.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/export.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/gluegen-rt-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/gluegen-rt-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/gluegen-rt-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/gluegen-rt-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/gluegen-rt-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/gluegen-rt-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/gluegen-rt-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/gluegen-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/jogl-all-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/jogl-all-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/jogl-all-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/jogl-all-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/jogl-all-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/jogl-all-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/jogl-all-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/lib/jogl-all.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/out/production/Project0102/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/out/production/Project0104/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/out/production/Project0106/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/out/production/Project0109/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/out/production/Project1/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/out/production/Project1/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/out/production/Project1/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/out/production/Project1/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/out/production/Project1/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/out/production/Project1/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/out/production/Project1/Task09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/out/production/Project1/Task10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/out/production/Project1/Task11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/out/production/Project1/Task12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/Project0110.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/export.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/gluegen-rt-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/gluegen-rt-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/gluegen-rt-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/gluegen-rt-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/gluegen-rt-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/gluegen-rt-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/gluegen-rt-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/gluegen-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/jogl-all-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/jogl-all-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/jogl-all-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/jogl-all-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/jogl-all-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/jogl-all-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/jogl-all-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/lib/jogl-all.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/out/production/Project0102/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/out/production/Project0104/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/out/production/Project0106/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/out/production/Project0109/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/out/production/Project0110/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/out/production/Project1/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/out/production/Project1/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/out/production/Project1/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/out/production/Project1/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/out/production/Project1/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/out/production/Project1/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/out/production/Project1/Task09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/out/production/Project1/Task10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/out/production/Project1/Task11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/out/production/Project1/Task12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/.idea/libraries/core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/Project0201.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/export.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/gluegen-rt-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/gluegen-rt-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/gluegen-rt-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/gluegen-rt-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/gluegen-rt-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/gluegen-rt-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/gluegen-rt-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/gluegen-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/jogl-all-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/jogl-all-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/jogl-all-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/jogl-all-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/jogl-all-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/jogl-all-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/jogl-all-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/lib/jogl-all.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/out/production/Project0102/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/out/production/Project0201/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/out/production/Project1/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/out/production/Project1/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/out/production/Project1/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/out/production/Project1/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/out/production/Project1/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/out/production/Project1/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/out/production/Project1/Task09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/out/production/Project1/Task10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/out/production/Project1/Task11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/out/production/Project1/Task12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/.idea/libraries/core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/Project0202.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/export.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/gluegen-rt-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/gluegen-rt-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/gluegen-rt-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/gluegen-rt-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/gluegen-rt-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/gluegen-rt-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/gluegen-rt-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/gluegen-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/jogl-all-natives-linux-aarch64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/jogl-all-natives-linux-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/jogl-all-natives-linux-armv6hf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/jogl-all-natives-linux-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/jogl-all-natives-macosx-universal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/jogl-all-natives-windows-amd64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/jogl-all-natives-windows-i586.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/lib/jogl-all.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/out/production/Project0102/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/out/production/Project0201/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/out/production/Project0202/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/out/production/Project1/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/out/production/Project1/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/out/production/Project1/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/out/production/Project1/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/out/production/Project1/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/out/production/Project1/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/out/production/Project1/Task09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/out/production/Project1/Task10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/out/production/Project1/Task11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/out/production/Project1/Task12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project1/hs_err_pid3853.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project1/lib/Архив.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project1/out/production/Project1/Task11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project1/out/production/Project1/Task12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projects/Project1/out/production/Project1/Task13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1079/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1079/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1079/out/production/URI_1079/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1080/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1080/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1080/out/production/URI_1080/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1094/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1094/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1094/out/production/URI_1094/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1095/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1095/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1095/out/production/URI_1095/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1096/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1096/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1096/out/production/URI_1096/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1097/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1097/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1097/out/production/URI_1097/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1098/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1098/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1098/out/production/URI_1098/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1099/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1099/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1099/out/production/URI_1099/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1101/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1101/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1101/out/production/URI_1101/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1113/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1113/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1113/out/production/URI_1113/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1114/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1114/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1114/out/production/URI_1114/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1116/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1116/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1116/out/production/URI_1116/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1117/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1117/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1117/out/production/URI_1117/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1118/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1118/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1118/out/production/URI_1118/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1132/out/production/URI_1132/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1133/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1133/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1133/out/production/URI_1133/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1134/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1134/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1134/out/production/URI_1134/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1142/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1142/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1142/out/production/URI_1142/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1143/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1143/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1143/out/production/URI_1143/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1144/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1144/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1144/out/production/URI_1144/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1145/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1145/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1145/out/production/URI_1145/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1146/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1146/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1146/out/production/URI_1146/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1149/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1149/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1149/out/production/URI_1149/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1150/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1150/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1150/out/production/URI_1150/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1151/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1151/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1151/out/production/URI_1151/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1153/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1153/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1153/out/production/URI_1153/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1154/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1154/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1154/out/production/URI_1154/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1155/out/production/URI_1155/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1156/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1156/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1156/out/production/URI_1156/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1157/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1157/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1157/out/production/URI_1157/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1158/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1158/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1158/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1158/out/production/URI_1158/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1159/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1159/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1159/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1159/out/production/URI_1159/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1165/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1165/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1165/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1165/out/production/URI_1165/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1172/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1172/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1172/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1172/out/production/URI_1172/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1173/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1173/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1173/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1173/out/production/URI_1173/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1174/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1174/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1174/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1174/out/production/URI_1174/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1175/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1175/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1175/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1175/out/production/URI_1175/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1177/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1177/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1177/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1177/out/production/URI_1177/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1178/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1178/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1178/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1178/out/production/URI_1178/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1179/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1180/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1180/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1180/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1180/out/production/URI_1180/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1181/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1182/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1183/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI__1176/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1001/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1002/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1003/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1003/URI_1003.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1004/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1004/URI_1004.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1005/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1005/URI_1005.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1006/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1006/URI_1006.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1007/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1007/URI_1007.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1008/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1008/URI_1008.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1009/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1009/URI_1009.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1010/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1010/URI_1010.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1011/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1011/URI_1011.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1012/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1012/URI_1012.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1013/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1013/URI_1013.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1014/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1014/URI_1014.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1015/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1015/URI_1015.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1016/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1016/URI_1016.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1017/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1017/URI_1017.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1018/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1018/URI_1018.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1019/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1019/URI_1019.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1020/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1020/URI_1020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1021/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1021/URI_1021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1035/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1035/URI_1035.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1036/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1036/URI_1036.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1037/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1037/URI_1037.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1038/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1038/URI_1038.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1040/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1040/URI_1040.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1041/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1041/URI_1041.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1042/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1042/URI_1042.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1043/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1043/URI_1043.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1044/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1044/URI_1044.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1045/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1045/URI_1045.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1046/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1046/URI_1046.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1047/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1047/URI_1047.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1048/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1048/URI_1048.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1049/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1049/URI_1049.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1050/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1050/URI_1050.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1051/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1051/URI_1051.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1052/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1052/URI_1052.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1059/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1059/URI_1059.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1060/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1060/URI_1060.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1064/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1064/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1064/URI_1064.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1065/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1065/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1065/URI_1065.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1066/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1066/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1066/URI_1066.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1067/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1067/URI_1067.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1070/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1070/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1070/URI_1070.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1072/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1072/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1072/URI_1072.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1073/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1073/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1073/URI_1073.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1074/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1074/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1074/URI_1074.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1075/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1075/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1075/URI_1075.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1078/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1078/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1078/URI_1078.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1115/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1115/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1115/URI_1115.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab01/Lab01Problem10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab01/Lab01Problem10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab03/Lab03Problem07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab03/Lab03Problem07/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab04/Lab04Problem06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem06/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab04/Lab04Problem06/out/production/Lab04Problem06/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem06/out/production/Lab04Problem06/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab04/Lab04Problem06/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem06/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab04/Lab04Problem07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem07/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab04/Lab04Problem07/out/production/Lab04Problem07/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem07/out/production/Lab04Problem07/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab04/Lab04Problem10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem01/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem02/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem04/Lab05Problem04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem04/Lab05Problem04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem04/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem04/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem05/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem05/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem06/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem06/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem07/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem07/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem08/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem08/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab06/Lab06Problem01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem01/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab06/Lab06Problem02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem02/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab06/Lab06Problem04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab06/Lab06Problem04/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem04/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab07/Lab06Problem04/Lab06Problem04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab07/Lab06Problem04/Lab06Problem04/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab07/Lab07Problem01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab07/Lab07Problem01/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab07/Lab07Problem02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab07/Lab07Problem02/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab08/Lab08Problem01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab08/Lab08Problem01/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project01/Project0101/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project01/Project0103/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project01/Project0110/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project0102/.idea/libraries/core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem03/.idea/libraries/core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project0102/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project0102/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem07/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project0104/.idea/libraries/core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/.idea/libraries/core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project0104/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem10/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project0104/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem08/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project0106/.idea/libraries/core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/.idea/libraries/core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project0106/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem03/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project0106/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem09/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project0108/.idea/libraries/core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/.idea/libraries/core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project0108/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem06/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project0108/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem10/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project0109/.idea/libraries/core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/.idea/libraries/core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project0109/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem07/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project02/Project0202/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project1/out/production/Project1/Task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project1/out/production/Project1/Task01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project1/out/production/Project1/Task03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project1/out/production/Project1/Task03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project1/out/production/Project1/Task06.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project1/out/production/Project1/Task06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project1/out/production/Project1/Task09.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project1/out/production/Project1/Task09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project1/src/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project1/src/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project1/src/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project1/src/Task03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project1/src/Task06.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project1/src/Task06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project1/src/Task09.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project1/src/Task09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project1/src/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project1/src/Task11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project1/src/Task12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project1/src/Task12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project1/src/Task13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project1/src/Task13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project2/Project0201/.idea/libraries/core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/.idea/libraries/core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Project2/Project0201/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab07/Lab07Problem06/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/1142/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem08/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/1142/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1160/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1079/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1079/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1080/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1080/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1094/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1094/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1095/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1095/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1096/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1096/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1097/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1097/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1098/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1098/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1099/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1099/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1101/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1101/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1113/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1113/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1114/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1114/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1116/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1116/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1117/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1117/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1118/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1118/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1132/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1132/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1132/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1132/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1133/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1133/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1134/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1134/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1142/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1142/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1143/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1143/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1144/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1144/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1145/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1145/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1146/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1146/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1149/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1149/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1150/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1150/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1151/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1151/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1153/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1153/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1154/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1154/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1155/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1155/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1155/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1155/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1156/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1156/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1157/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1157/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1158/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1158/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1159/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1159/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1165/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1165/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1172/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1172/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1173/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1173/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1174/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1174/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1175/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1175/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1177/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1177/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1178/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1178/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1180/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1180/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1001/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1001/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1001/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1001/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1001/URI_1001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem01/Lab05Problem01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1001/out/production/URI_1001/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1001/out/production/URI_1001/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1001/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1001/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1002/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1002/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1002/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1002/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1002/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1002/URI_1002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem02/Lab05Problem02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1002/out/production/URI_1002/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1002/out/production/URI_1002/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1002/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1002/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1003/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem03/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1003/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1003/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1003/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1003/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1003/URI_1003.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem03/Lab05Problem03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1003/out/production/URI_1003/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1003/out/production/URI_1003/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1003/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1003/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1004/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem06/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1004/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1004/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1004/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1004/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1004/URI_1004.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem06/Lab05Problem06.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1004/out/production/URI_1004/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1004/out/production/URI_1004/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1004/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1004/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1005/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem07/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1005/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1005/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1005/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1005/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1005/URI_1005.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem07/Lab05Problem07.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1005/out/production/URI_1005/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1005/out/production/URI_1005/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1005/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1005/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1006/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1006/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1006/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1006/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1006/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1006/URI_1006.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem01/Lab06Problem01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1006/out/production/URI_1006/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1006/out/production/URI_1006/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1006/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1006/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1007/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1007/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1007/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1007/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1007/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1007/URI_1007.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem02/Lab06Problem02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1007/out/production/URI_1007/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1007/out/production/URI_1007/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1007/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1007/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1008/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem05/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1008/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1008/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1008/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1008/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1008/URI_1008.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem05/Lab06Problem05.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1008/out/production/URI_1008/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1008/out/production/URI_1008/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1008/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1008/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1009/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab07/Lab07Problem01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1009/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1009/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1009/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1009/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1009/URI_1009.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab07/Lab07Problem01/Lab07Problem01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1009/out/production/URI_1009/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1009/out/production/URI_1009/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1009/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1009/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1010/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab07/Lab07Problem02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1010/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1010/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1010/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1010/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1010/URI_1010.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab07/Lab07Problem02/Lab07Problem02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1010/out/production/URI_1010/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1010/out/production/URI_1010/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1010/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1010/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1011/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab08/Lab08Problem01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1011/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1011/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1011/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1011/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1011/URI_1011.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab08/Lab08Problem01/Lab08Problem01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1011/out/production/URI_1011/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1011/out/production/URI_1011/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1011/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1011/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1012/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1012/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1012/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1012/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1012/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1012/URI_1012.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1079/URI_1079.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1012/out/production/URI_1012/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1012/out/production/URI_1012/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1012/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1012/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1013/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0101/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1013/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1013/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1013/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1013/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1013/URI_1013.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1080/URI_1080.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1013/out/production/URI_1013/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1013/out/production/URI_1013/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1013/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1013/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1014/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0102/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1014/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1014/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1014/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1014/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1014/URI_1014.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1094/URI_1094.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1014/out/production/URI_1014/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1014/out/production/URI_1014/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1014/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1014/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1015/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0103/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1015/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1015/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1015/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1015/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1015/URI_1015.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1095/URI_1095.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1015/out/production/URI_1015/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1015/out/production/URI_1015/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1015/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1015/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1016/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0104/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1016/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1016/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1016/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1016/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1016/URI_1016.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1096/URI_1096.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1016/out/production/URI_1016/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1016/out/production/URI_1016/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1016/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1016/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1017/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0106/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1017/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1017/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1017/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1017/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1017/URI_1017.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1097/URI_1097.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1017/out/production/URI_1017/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1017/out/production/URI_1017/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1017/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1017/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1018/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0108/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1018/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1018/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1018/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1018/URI_1018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1098/URI_1098.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1018/out/production/URI_1018/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1018/out/production/URI_1018/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1018/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1018/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1019/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0109/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1019/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1019/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1019/URI_1019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1099/URI_1099.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1019/out/production/URI_1019/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1019/out/production/URI_1019/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1019/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1019/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1020/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project01/Project0110/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1020/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1020/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1020/URI_1020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1101/URI_1101.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1020/out/production/URI_1020/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1020/out/production/URI_1020/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1020/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1020/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1021/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0201/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1021/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1021/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1021/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1021/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1021/URI_1021.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1113/URI_1113.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1021/out/production/URI_1021/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1021/out/production/URI_1021/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1021/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1021/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1035/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Project02/Project0202/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1035/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1035/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1035/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1035/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1035/URI_1035.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1114/URI_1114.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1035/out/production/URI_1035/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1035/out/production/URI_1035/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1035/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1035/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1036/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1036/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1036/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1036/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1036/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1036/URI_1036.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1116/URI_1116.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1036/out/production/URI_1036/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1036/out/production/URI_1036/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1036/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1036/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1037/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1079/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1037/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1037/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1037/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1037/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1037/URI_1037.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1117/URI_1117.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1037/out/production/URI_1037/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1037/out/production/URI_1037/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1037/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1037/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1038/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1080/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1038/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1038/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1038/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1038/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1038/URI_1038.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1118/URI_1118.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1038/out/production/URI_1038/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1038/out/production/URI_1038/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1038/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1038/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1040/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1094/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1040/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1040/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1040/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1040/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1040/URI_1040.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1133/URI_1133.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1040/out/production/URI_1040/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1040/out/production/URI_1040/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1040/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1040/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1041/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1095/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1041/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1041/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1041/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1041/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1041/URI_1041.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1134/URI_1134.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1041/out/production/URI_1041/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1041/out/production/URI_1041/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1041/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1041/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1042/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1096/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1042/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1042/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1042/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1042/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1042/URI_1042.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1142/URI_1142.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1042/out/production/URI_1042/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1042/out/production/URI_1042/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1042/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1042/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1043/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1097/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1043/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1043/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1043/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1043/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1043/URI_1043.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1143/URI_1143.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1043/out/production/URI_1043/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1043/out/production/URI_1043/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1043/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1043/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1044/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1098/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1044/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1044/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1044/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1044/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1044/URI_1044.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1144/URI_1144.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1044/out/production/URI_1044/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1044/out/production/URI_1044/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1044/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1044/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1045/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1099/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1045/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1045/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1045/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1045/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1045/URI_1045.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1145/URI_1145.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1045/out/production/URI_1045/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1045/out/production/URI_1045/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1045/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1045/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1046/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1101/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1046/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1046/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1046/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1046/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1046/URI_1046.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1146/URI_1146.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1046/out/production/URI_1046/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1046/out/production/URI_1046/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1046/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1046/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1047/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1113/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1047/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1047/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1047/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1047/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1047/URI_1047.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1149/URI_1149.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1047/out/production/URI_1047/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1047/out/production/URI_1047/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1047/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1047/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1048/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1114/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1048/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1048/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1048/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1048/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1048/URI_1048.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1150/URI_1150.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1048/out/production/URI_1048/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1048/out/production/URI_1048/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1048/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1048/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1049/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1116/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1049/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1049/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1049/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1049/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1049/URI_1049.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1151/URI_1151.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1049/out/production/URI_1049/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1049/out/production/URI_1049/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1049/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1049/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1050/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1117/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1050/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1050/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1050/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1050/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1050/URI_1050.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1153/URI_1153.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1050/out/production/URI_1050/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1050/out/production/URI_1050/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1050/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1050/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1051/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1118/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1051/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1051/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1051/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1051/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1051/URI_1051.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1154/URI_1154.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1051/out/production/URI_1051/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1051/out/production/URI_1051/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1051/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1051/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1052/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1133/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1052/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1052/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1052/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1052/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1052/URI_1052.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1156/URI_1156.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1052/out/production/URI_1052/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1052/out/production/URI_1052/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1052/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1052/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1059/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1134/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1059/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1059/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1059/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1059/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1059/URI_1059.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1157/URI_1157.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1059/out/production/URI_1059/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1059/out/production/URI_1059/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1059/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1059/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1060/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1142/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1060/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1060/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1060/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem09/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1060/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1060/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1060/URI_1060.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1158/URI_1158.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1060/out/production/URI_1060/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1060/out/production/URI_1060/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1060/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1060/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1064/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1143/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1064/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1064/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1064/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06Problem10/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1064/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1064/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1064/URI_1064.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1159/URI_1159.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1064/out/production/URI_1064/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1064/out/production/URI_1064/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1064/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1064/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1065/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1144/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1065/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1065/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1065/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab07/Lab07Problem03/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1065/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1065/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1065/URI_1065.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1165/URI_1165.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1065/out/production/URI_1065/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1065/out/production/URI_1065/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1065/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1065/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1066/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1145/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1066/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1066/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1066/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab07/Lab07Problem06/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1066/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1066/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1066/URI_1066.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1172/URI_1172.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1066/out/production/URI_1066/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1066/out/production/URI_1066/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1066/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1066/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1067/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1146/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1067/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1067/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1067/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1067/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1067/URI_1067.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1173/URI_1173.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1067/out/production/URI_1067/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1067/out/production/URI_1067/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1067/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1067/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1070/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1149/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1070/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1070/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1070/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1160/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1070/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1070/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1070/URI_1070.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1174/URI_1174.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1070/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1070/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1072/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1150/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1072/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1072/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1072/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1164/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1072/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1072/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1072/URI_1072.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1175/URI_1175.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1072/out/production/URI_1072/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1072/out/production/URI_1072/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1072/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1072/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1073/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1151/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1073/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1073/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1073/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1179/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1073/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1073/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1073/URI_1073.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1177/URI_1177.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1073/out/production/URI_1073/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1073/out/production/URI_1073/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1073/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1073/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1074/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1153/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1074/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1074/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1074/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1181/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1074/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1074/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1074/URI_1074.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1178/URI_1178.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1074/out/production/URI_1074/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1074/out/production/URI_1074/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1074/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1074/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1075/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1154/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1075/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1075/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1075/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1182/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1075/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1075/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1075/URI_1075.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1180/URI_1180.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1075/out/production/URI_1075/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1075/out/production/URI_1075/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1075/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1075/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1078/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1156/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1078/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1078/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1078/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1183/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1078/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1078/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1078/URI_1078.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1001/URI_1001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1078/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1078/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1079/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI__1176/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1079/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1164/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1115/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1157/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1115/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1115/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1115/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1060/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1115/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1115/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1115/URI_1115.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1002/URI_1002.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1115/out/production/URI_1115/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1115/out/production/URI_1115/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI/URI_1115/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1115/src/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="292476947">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="284" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="284" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab05Problem09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab05Problem09" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545157586552" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lab05Problem09" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c8ab41a-7ea6-492f-82c3-f09a5343cf7f" name="Default Changelist" comment="" />
+      <created>1545157270053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545157270053</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32902467" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

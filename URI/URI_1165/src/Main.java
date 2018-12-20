@@ -1,26 +1,28 @@
-import java.util.*;
+import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
-        int num = sc.nextInt();
-        for(int i = 0; i < num; i++){
-            boolean result = false;
-            int one = sc.nextInt();
-            for(int j = 2; j <= one / 2; j++) {
+public class Main{
+
+    public static void main(String[] args) {
+        int times, num, j;
+        Scanner input = new Scanner(System.in);
+        times = input.nextInt();
+        for (int i = 1; i <= times; i++) {
+            num = input.nextInt();
+            boolean isPrime = true;
+            for (j = 2; j < num; j++) {
                 if (num % j == 0) {
-                    result = false;
-                }
-                else {
-                    result = true;
+                    isPrime = false;
                 }
             }
-            if(result == false){
-                System.out.printf("%d eh primo%n", one);
+
+            if (isPrime) {
+                System.out.println(num +" eh primo");
+            }else {
+                System.out.println(num +" nao eh primo");
             }
-            else {
-                System.out.printf("%d nao eh primo%n", one);
-            }
+
         }
+
     }
+
 }

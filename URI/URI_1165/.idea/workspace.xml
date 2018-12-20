@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4d5e5d7-9c2d-4f25-b9b5-6b9833a81acd" name="Default Changelist" comment="" />
+    <list default="true" id="b4d5e5d7-9c2d-4f25-b9b5-6b9833a81acd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../URI_1145/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1046/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1046/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1046/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1046/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1097/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1097/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1144/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1144/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1144/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1144/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1146/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1146/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1146/out/production/URI_1146/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1146/out/production/URI_1146/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1146/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1146/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1149/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1149/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1149/out/production/URI_1149/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1149/out/production/URI_1149/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1149/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1149/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1156/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1156/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1156/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1156/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1175/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1175/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1175/out/production/URI_1175/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1175/out/production/URI_1175/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1175/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1175/src/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="231">
+              <caret line="15" column="13" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -28,6 +47,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,12 +64,13 @@
     <option name="width" value="784" />
     <option name="height" value="698" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -59,11 +82,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544349413846" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545303928288" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -107,7 +131,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -138,8 +162,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="231">
+          <caret line="15" column="13" selection-end-line="28" />
         </state>
       </provider>
     </entry>

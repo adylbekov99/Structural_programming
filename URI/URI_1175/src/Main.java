@@ -8,16 +8,19 @@
                 int num = sc.nextInt();
                 arr[i] = num;
             }
-            int j = arr.length - 1;
+            reverse(arr);
+        }
+        public static void reverse(int[] a){
+            int j = a.length - 1;
             int temp;
-            for(int i = 0; i < arr.length / 2; i++){
-                temp = arr[i];
-                arr[i] = arr[j];
-                arr[j] = temp;
+            for(int i = 0; i < a.length / 2; i++){
+                temp = a[i];
+                a[i] = a[j];
+                a[j] = temp;
                 j--;
             }
-            for(int i = 0; i < arr.length; i++){
-                System.out.printf("N[%d] = %d%n", i, arr[i]);
+            for(int i = 0; i < a.length; i++){
+                System.out.printf("N[%d] = %d%n", i, a[i]);
             }
         }
     }
