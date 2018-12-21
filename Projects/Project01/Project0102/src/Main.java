@@ -1,101 +1,105 @@
 import processing.core.PApplet;
 
+import javax.swing.*;
+
 public class Main extends PApplet {
-    int R = 30;
-    float x1 = width / 2;
-    float y1 = height / 2;
-    float dx1 = 7;
-    float dy1 = 7;
-    float x2 = x1 + 35;
-    float y2 = y1 + 35;
-    float dx2 = 7;
-    float dy2 = 7;
-    float x3 = x1 - 60;
-    float y3 = y1 - 60;
-    float dx3 = 7;
-    float dy3 = 7;
+
+    int x = width / 2;
+    int y = height / 2;
+    int dx = 4;
+    int dx1 = 4;
+    int dx2 = 4;
+    int dy = 4;
+    int dy1 = 4;
+    int dy2 = 4;
+    int r = 25;
+    int x1 = x + 30;
+    int x2 = x - 30;
+    int y1 = x + 30;
+    int y2 = x - 30;
 
     public void settings() {
         fullScreen();
+
     }
 
     public void setup() {
-
     }
 
     public void draw() {
-        //1st Ball
+        frameRate(100);
         background(0);
-        ellipse(x1, y1, R, R);
-        fill(200, 0, 0);
+
+        fill(255, 0, 0);
+        ellipse(x, y, r, r);
+        x += dx;
+        y += dy;
+
+        if (x > width - r) {
+            x = width - r;
+            dx = -dx;
+        }
+        if (x < r) {
+            x = r;
+            dx = -dx;
+        }
+        if (y > height - r) {
+            y = height - r;
+            dy = -dy;
+        }
+        if (y < r) {
+            y = r;
+            dy = -dy;
+        }
+
+        fill(0, 255, 0);
+        ellipse(x1, y1, r, r);
         x1 += dx1;
         y1 += dy1;
-
-        if (x1 > width - R) {
-            x1 = width - R;
+        if (x1 > width - r) {
+            x1 = width - r;
             dx1 = -dx1;
         }
-        if (x1 < R) {
-            x1 = R;
+        if (x1 < r) {
+            x1 = r;
             dx1 = -dx1;
         }
-        if (y1 > height - R) {
-            y1 = height - R;
+        if (y1 > height - r) {
+            y1 = height - r;
             dy1 = -dy1;
         }
-        if (y1 < R) {
-            y1 = R;
+        if (y1 < r) {
+            y1 = r;
             dy1 = -dy1;
         }
 
-        //2nd Ball
-        ellipse(x2, y2, R, R);
-        fill(0, 0, 200);
+
+        fill(255, 255, 0);
+        ellipse(x2, y2, r, r);
         x2 += dx2;
         y2 += dy2;
-        if (x2 > width - R) {
-            x2 = width - R;
+        if (x2 > width - r) {
+            x2 = width - r;
             dx2 = -dx2;
         }
-        if (x2 < R) {
-            x2 = R;
+        if (x2 < r) {
+            x2 = r;
             dx2 = -dx2;
         }
-        if (y2 > height - R) {
-            y2 = height - R;
+        if (y2 > height - r) {
+            y2 = height - r;
             dy2 = -dy2;
         }
-        if (y2 < R) {
-            y2 = R;
+        if (y2 < r) {
+            y2 = r;
             dy2 = -dy2;
         }
-        //3d Ball
-        ellipse(x3, y3, R, R);
-        fill(0, 200, 0);
-        x3 += dx3;
-        y3 += dy3;
-        if (x3 > width - R) {
-            x3 = width - R;
-            dx3 = -dx3;
-        }
-        if (x3 < R) {
-            x3 = R;
-            dx3 = -dx3;
-        }
-        if (y3 > height - R) {
-            y3 = height - R;
-            dy3 = -dy3;
-        }
-        if (y3 < R) {
-            y3 = R;
-            dy3 = -dy3;
-        }
+
 
     }
 
 
-    public static void main(String[] args) {
+    public static void main(String... args) {
         PApplet.main("Main");
     }
-
 }

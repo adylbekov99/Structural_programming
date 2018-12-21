@@ -5,12 +5,13 @@ public class Main extends PApplet {
     float x;
     float x1;
     float y;
-    float dbr = 0.05f;
-    float dsr = 0.01f;
-    float bigStarRad = 25;
-    float smallStarRad = 10;
-    float bigStarEnd = 150;
-    float smallStarEnd = 44;
+    int speed = 3;
+    float dbr = 0.05f * speed;
+    float dsr = 0.01f* speed;
+    float br = 25;
+    float sr = 10;
+    float stopbr = 150;
+    float stopsr = 44;
 
     public void settings() {
         fullScreen();
@@ -23,86 +24,86 @@ public class Main extends PApplet {
 
 
     public void draw() {
-        background(0);
+        background(0,24,41);
 
 
 
         bigStar(width/2,height/2);
-        smallStar(width/2 - 300,height/2 - 300);
-        smallStar(width/2 + 300,height/2 - 300);
-        smallStar(width/2 + 300,height/2 + 300);
-        smallStar(width/2 - 300,height/2 + 300);
-        stroke(255,0,0);
+        smallStar(width/4,height/4);
+        smallStar(width/4,height*3/4);
+        smallStar(width*3/4,height/4);
+        smallStar(width*3/4,height*3/4);
+        stroke(0,255,0);
         strokeWeight(2);
 
     }
     void smallStar(float x, float y){
         pushMatrix();
         translate(x,y);
-        stroke(255,255,0);
+        stroke(211,215,182);
         strokeWeight(4);
-        line(0,0, bigStarRad,0); // line +
-        line(0,0, smallStarRad, smallStarRad);
-        line(bigStarRad,0, smallStarRad, smallStarRad);
-        line(0, bigStarRad, smallStarRad, smallStarRad);
-        bigStarRad += dbr;
-        smallStarRad += dsr;
-        if (bigStarRad > bigStarEnd){
-            bigStarRad = bigStarEnd;
+        line(0,0,br,0); // line +
+        line(0,0,sr,sr);
+        line(br,0,sr,sr);
+        line(0,br,sr,sr);
+        br += dbr;
+        sr += dsr;
+        if (br > stopbr){
+            br = stopbr;
             dbr = - dbr;
             dsr = - dsr;
         }
-        if (bigStarRad < bigStarEnd /5){
-            bigStarRad = bigStarEnd /5;
+        if (br < stopbr/5){
+            br = stopbr/5;
             dbr = - dbr;
             dsr = - dsr;
         }
         rotate(PI/2);
-        line(0,0, bigStarRad,0); // line +
-        line(0,0, smallStarRad, smallStarRad);
-        line(bigStarRad,0, smallStarRad, smallStarRad);
-        line(0, bigStarRad, smallStarRad, smallStarRad);
-        bigStarRad += dbr;
-        smallStarRad += dsr;
-        if (bigStarRad > bigStarEnd){
-            bigStarRad = bigStarEnd;
+        line(0,0,br,0); // line +
+        line(0,0,sr,sr);
+        line(br,0,sr,sr);
+        line(0,br,sr,sr);
+        br += dbr;
+        sr += dsr;
+        if (br > stopbr){
+            br = stopbr;
             dbr = - dbr;
             dsr = - dsr;
         }
-        if (bigStarRad < bigStarEnd /5){
-            bigStarRad = bigStarEnd /5;
+        if (br < stopbr/5){
+            br = stopbr/5;
             dbr = - dbr;
             dsr = - dsr;
         }        rotate(PI/2);
-        line(0,0, bigStarRad,0); // line +
-        line(0,0, smallStarRad, smallStarRad);
-        line(bigStarRad,0, smallStarRad, smallStarRad);
-        line(0, bigStarRad, smallStarRad, smallStarRad);
-        bigStarRad += dbr;
-        smallStarRad += dsr;
-        if (bigStarRad > bigStarEnd){
-            bigStarRad = bigStarEnd;
+        line(0,0,br,0); // line +
+        line(0,0,sr,sr);
+        line(br,0,sr,sr);
+        line(0,br,sr,sr);
+        br += dbr;
+        sr += dsr;
+        if (br > stopbr){
+            br = stopbr;
             dbr = - dbr;
             dsr = - dsr;
         }
-        if (bigStarRad < bigStarEnd /5){
-            bigStarRad = bigStarEnd /5;
+        if (br < stopbr/5){
+            br = stopbr/5;
             dbr = - dbr;
             dsr = - dsr;
         }        rotate(PI/2);
-        line(0,0, bigStarRad,0); // line +
-        line(0,0, smallStarRad, smallStarRad);
-        line(bigStarRad,0, smallStarRad, smallStarRad);
-        line(0, bigStarRad, smallStarRad, smallStarRad);
-        bigStarRad += dbr;
-        smallStarRad += dsr;
-        if (bigStarRad > bigStarEnd){
-            bigStarRad = bigStarEnd;
+        line(0,0,br,0); // line +
+        line(0,0,sr,sr);
+        line(br,0,sr,sr);
+        line(0,br,sr,sr);
+        br += dbr;
+        sr += dsr;
+        if (br > stopbr){
+            br = stopbr;
             dbr = - dbr;
             dsr = - dsr;
         }
-        if (bigStarRad < bigStarEnd /5){
-            bigStarRad = bigStarEnd /5;
+        if (br < stopbr/5){
+            br = stopbr/5;
             dbr = - dbr;
             dsr = - dsr;
         }
@@ -112,72 +113,72 @@ public class Main extends PApplet {
 
         pushMatrix();
         translate(x,y);
-        stroke(255,0,0);
+        stroke(240,200,40);
         strokeWeight(4);
-        line(0,0,(bigStarEnd + bigStarEnd /6) - bigStarRad,0); // line +
-        line(0,0, smallStarEnd - smallStarRad, smallStarEnd - smallStarRad);
-        line((bigStarEnd + bigStarEnd /6) - bigStarRad,0, smallStarEnd - smallStarRad, smallStarEnd - smallStarRad);
-        line(0,(bigStarEnd + bigStarEnd /6) - bigStarRad, smallStarEnd - smallStarRad, smallStarEnd - smallStarRad);
-        bigStarRad += dbr;
-        smallStarRad += dsr;
-        if (bigStarRad > bigStarEnd){
-            bigStarRad = bigStarEnd;
+        line(0,0,(stopbr + stopbr/6) - br,0); // line +
+        line(0,0,stopsr - sr,stopsr - sr);
+        line((stopbr + stopbr/6) - br,0,stopsr - sr,stopsr - sr);
+        line(0,(stopbr + stopbr/6) - br,stopsr - sr,stopsr - sr);
+        br += dbr;
+        sr += dsr;
+        if (br > stopbr){
+            br = stopbr;
             dbr = - dbr;
             dsr = - dsr;
         }
-        if (bigStarRad < bigStarEnd /5){
-            bigStarRad = bigStarEnd /5;
+        if (br < stopbr/5){
+            br = stopbr/5;
             dbr = - dbr;
             dsr = - dsr;
         }
 
 
         rotate(PI/2);
-        line(0,0,(bigStarEnd + bigStarEnd /6) - bigStarRad,0); // line +
-        line(0,0, smallStarEnd - smallStarRad, smallStarEnd - smallStarRad);
-        line((bigStarEnd + bigStarEnd /6) - bigStarRad,0, smallStarEnd - smallStarRad, smallStarEnd - smallStarRad);
-        line(0,(bigStarEnd + bigStarEnd /6) - bigStarRad, smallStarEnd - smallStarRad, smallStarEnd - smallStarRad);
-        bigStarRad += dbr;
-        smallStarRad += dsr;
-        if (bigStarRad > bigStarEnd){
-            bigStarRad = bigStarEnd;
+        line(0,0,(stopbr + stopbr/6) - br,0); // line +
+        line(0,0,stopsr - sr,stopsr - sr);
+        line((stopbr + stopbr/6) - br,0,stopsr - sr,stopsr - sr);
+        line(0,(stopbr + stopbr/6) - br,stopsr - sr,stopsr - sr);
+        br += dbr;
+        sr += dsr;
+        if (br > stopbr){
+            br = stopbr;
             dbr = - dbr;
             dsr = - dsr;
         }
-        if (bigStarRad < bigStarEnd /5){
-            bigStarRad = bigStarEnd /5;
+        if (br < stopbr/5){
+            br = stopbr/5;
             dbr = - dbr;
             dsr = - dsr;
         } rotate(PI/2);
-        line(0,0,(bigStarEnd + bigStarEnd /6) - bigStarRad,0); // line +
-        line(0,0, smallStarEnd - smallStarRad, smallStarEnd - smallStarRad);
-        line((bigStarEnd + bigStarEnd /6) - bigStarRad,0, smallStarEnd - smallStarRad, smallStarEnd - smallStarRad);
-        line(0,(bigStarEnd + bigStarEnd /6) - bigStarRad, smallStarEnd - smallStarRad, smallStarEnd - smallStarRad);
-        bigStarRad += dbr;
-        smallStarRad += dsr;
-        if (bigStarRad > bigStarEnd){
-            bigStarRad = bigStarEnd;
+        line(0,0,(stopbr + stopbr/6) - br,0); // line +
+        line(0,0,stopsr - sr,stopsr - sr);
+        line((stopbr + stopbr/6) - br,0,stopsr - sr,stopsr - sr);
+        line(0,(stopbr + stopbr/6) - br,stopsr - sr,stopsr - sr);
+        br += dbr;
+        sr += dsr;
+        if (br > stopbr){
+            br = stopbr;
             dbr = - dbr;
             dsr = - dsr;
         }
-        if (bigStarRad < bigStarEnd /5){
-            bigStarRad = bigStarEnd /5;
+        if (br < stopbr/5){
+            br = stopbr/5;
             dbr = - dbr;
             dsr = - dsr;
         } rotate(PI/2);
-        line(0,0,(bigStarEnd + bigStarEnd /6) - bigStarRad,0); // line +
-        line(0,0, smallStarEnd - smallStarRad, smallStarEnd - smallStarRad);
-        line((bigStarEnd + bigStarEnd /6) - bigStarRad,0, smallStarEnd - smallStarRad, smallStarEnd - smallStarRad);
-        line(0,(bigStarEnd + bigStarEnd /6) - bigStarRad, smallStarEnd - smallStarRad, smallStarEnd - smallStarRad);
-        bigStarRad += dbr;
-        smallStarRad += dsr;
-        if (bigStarRad > bigStarEnd){
-            bigStarRad = bigStarEnd;
+        line(0,0,(stopbr + stopbr/6) - br,0); // line +
+        line(0,0,stopsr - sr,stopsr - sr);
+        line((stopbr + stopbr/6) - br,0,stopsr - sr,stopsr - sr);
+        line(0,(stopbr + stopbr/6) - br,stopsr - sr,stopsr - sr);
+        br += dbr;
+        sr += dsr;
+        if (br > stopbr){
+            br = stopbr;
             dbr = - dbr;
             dsr = - dsr;
         }
-        if (bigStarRad < bigStarEnd /5){
-            bigStarRad = bigStarEnd /5;
+        if (br < stopbr/5){
+            br = stopbr/5;
             dbr = - dbr;
             dsr = - dsr;
         }
@@ -189,3 +190,4 @@ public class Main extends PApplet {
         PApplet.main("Main");
     }
 }
+

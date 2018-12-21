@@ -1,44 +1,82 @@
+<<<<<<< HEAD
 import processing.core.PApplet;
 
 import javax.swing.*;
 
 public class Main extends PApplet {
-    int num;
-    float R;
+    static int num;
+    float r = 400 / num;
+    float i = 100;
+    float j = 100;
 
     public void settings() {
         fullScreen();
     }
-
     public void setup() {
-        num = Integer.parseInt(JOptionPane.showInputDialog("N? "));
-        R = 500 / num;
-
     }
-
     public void draw() {
+        background(150,150,150);
+        translate(width/2 -200, height/2 - 200);
 
-        background(0);
-        translate(width / 4 + 100, height / 4);
+        for (int i = 0; i < num * r; i += r) {
 
-        for (int i = 0; i < num * R; i += R) {
-            for (int j = 0; j < num * R; j += R) {
-                if (i % (R * 2) == 0 && (j + R) % (R * 2) == 0 ||
-                        (i + R) % (2 * R) == 0 && j % (2 * R) == 0) {
-                    fill(0, 0, 255);
-                    rect(j, i, R, R);
+            for (int j = 0; j < num * r; j += r) {
+                if (i % (r * 2) == 0 && (j + r) % (r * 2) == 0 || (i + r) % (2 * r) == 0 && j % (2 * r) == 0) {
+                    fill(75, 75, 75);
+                    rect(j, i, r, r);
                 } else {
-                    fill(255, 0, 0);
-                    rect(j, i, R, R);
+                    fill(100, 75, 0);
+                    rect(j, i, r, r);
+
                 }
-
             }
-
         }
     }
 
 
-    public static void main(String[] args) {
+    public static void main(String... args) {
+        num = Integer.parseInt(JOptionPane.showInputDialog("Num: "));
         PApplet.main("Main");
     }
+=======
+import processing.core.PApplet;
+
+import javax.swing.*;
+
+public class Main extends PApplet {
+    static int num;
+    float r = 400 / num;
+    float i = 100;
+    float j = 100;
+
+    public void settings() {
+        fullScreen();
+    }
+    public void setup() {
+    }
+    public void draw() {
+        background(150,150,150);
+        translate(width/2 -200, height/2 - 200);
+
+        for (int i = 0; i < num * r; i += r) {
+
+            for (int j = 0; j < num * r; j += r) {
+                if (i % (r * 2) == 0 && (j + r) % (r * 2) == 0 || (i + r) % (2 * r) == 0 && j % (2 * r) == 0) {
+                    fill(75, 75, 75);
+                    rect(j, i, r, r);
+                } else {
+                    fill(100, 75, 0);
+                    rect(j, i, r, r);
+
+                }
+            }
+        }
+    }
+
+
+    public static void main(String... args) {
+        num = Integer.parseInt(JOptionPane.showInputDialog("Num: "));
+        PApplet.main("Main");
+    }
+>>>>>>> 6becc31ecf0535cde9041672d21f2c62b7103190
 }

@@ -12,11 +12,11 @@ public class Main extends PApplet {
     float y;
     float y1;
     float r;
-    float mainquadro = 500;
+    float mainquadro = 300;
     float distance;
     float alfa;
-    float dx = 3;
-    float dy = 3;
+    float dx = 5;
+    float dy = 5;
 
     public void settings() {
         fullScreen();
@@ -39,13 +39,15 @@ public class Main extends PApplet {
 
 
     public void draw() {
-        background(0, 40);
+        fill(0,0,0,36);
+        rectMode(CENTER);
+        rect(width/2,height/2,width, height);
         pushMatrix();
         translate(x, y);
         for (float i = 0; i <= distance*2 * (n-1); i += 2 * distance) {
-            sq(i, 0);
+            kvadrat(i, 0);
             for (float f = 0; f <= distance*2 * (n - 1); f +=2* distance) {
-                sq(i, f);
+                kvadrat(i, f);
             }
         }
 
@@ -73,11 +75,11 @@ public class Main extends PApplet {
 
     }
 
-    void sq(float x, float y) {
+    void kvadrat(float x, float y) {
         pushMatrix();
         translate(x, y);
         rotate(alfa);
-        alfa += 0.002;
+        alfa += 0.003;
         fill(255,0,0);
         rectMode(CENTER);
         rect(0, 0, r, r);
@@ -89,4 +91,3 @@ public class Main extends PApplet {
         PApplet.main("Main");
     }
 }
-

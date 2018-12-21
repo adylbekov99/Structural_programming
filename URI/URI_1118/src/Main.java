@@ -1,32 +1,47 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
-        int totalValid = 0, X = 0;
-        double score1, total = 0, average;
-        while(X != 2){
-            while(totalValid != 2){
-                score1 = sc.nextDouble();
-                if (score1 >=0.0 && score1 <= 10.0) {
-                    total += score1;
-                    totalValid += 1;
 
-                }else {
-                    System.out.printf("Nota invalida%n");
+    public static void main(String[] args) {
+        double a;
+        double sum = 0;
+        double b = 0;
+        double c;
+        Scanner scan = new Scanner(System.in);
+        for (int i = 1; i <= 2; i++) {
+            a = scan.nextDouble();
+            if (a >= 0 && a <= 10) {
+                sum += a;
+            } else {
+                System.out.println("nota invalida");
+                i = i - 1;
+            }
+        }
+        System.out.printf("media = %.2f%n", sum / 2);
+        while (b != 2) {
+            sum = 0;
+            System.out.println("novo calculo (1-sim 2-nao)");
+            for (int i = 1; i <= 1; i++) {
+                b = scan.nextDouble();
+                if (b == 1) {
+                    for (int f = 1; f <= 2; f++) {
+                        c = scan.nextDouble();
+                        if (c >= 0 && c <= 10) {
+                            sum += c;
+                        } else {
+                            System.out.println("nota invalida");
+                            f = f - 1;
+                        }
+                    }
+                    System.out.printf("media = %.2f%n", sum / 2);
+
+                } else if (b == 2) {
+                    break;
+                } else {
+                    i = i - 1;
+                    System.out.println("novo calculo (1-sim 2-nao)");
                 }
-            }
-            if(totalValid == 2){
-                average = total / 2;
-
-                System.out.printf("media = %.2f%n",average);
-            }
-            X = sc.nextInt();
-            if (X == 1) {
-                System.out.println("novo calculo (1-sim 2-nao)%n");
             }
         }
     }
 }
-
-

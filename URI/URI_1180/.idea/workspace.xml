@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="275cc17f-e704-44a6-af3e-94a2ae62a248" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../URI_1145/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1046/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1046/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../URI_1046/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1046/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1097/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1097/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1144/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1144/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1144/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1144/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../URI_1146/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1146/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../URI_1146/out/production/URI_1146/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1146/out/production/URI_1146/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../URI_1146/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1146/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1149/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1149/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1149/out/production/URI_1149/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1149/out/production/URI_1149/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1149/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1149/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1156/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1156/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1156/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1156/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1175/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1175/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1175/out/production/URI_1175/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1175/out/production/URI_1175/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1175/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1175/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1179/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1179/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="28" column="27" selection-end-line="35" />
+            <state relative-caret-position="342">
+              <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -69,6 +57,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,13 +69,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545298073072" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../URI_1118" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../URI_1175" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -130,7 +118,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -161,8 +149,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="28" column="27" selection-end-line="35" />
+        <state relative-caret-position="342">
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
         </state>
       </provider>
     </entry>

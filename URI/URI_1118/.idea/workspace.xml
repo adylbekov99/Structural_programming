@@ -2,23 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ecac9cb-4f6e-4785-8dcb-44af5f1b85dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../URI_1145/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1046/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1046/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1018/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../URI_1046/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1046/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1079/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1079/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1080/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1080/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1094/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1094/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1095/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1095/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1096/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1096/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../URI_1097/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1097/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1144/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1144/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1144/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1144/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1098/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1098/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1099/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1099/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1101/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1101/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1113/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1113/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1114/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1114/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1115/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1115/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1116/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1116/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1117/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1117/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../URI_1146/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1146/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../URI_1146/out/production/URI_1146/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1146/out/production/URI_1146/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../URI_1146/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1146/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1149/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1149/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1149/out/production/URI_1149/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1149/out/production/URI_1149/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1149/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1149/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1156/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1156/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1156/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1156/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../URI_1175/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1175/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1175/out/production/URI_1175/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1175/out/production/URI_1175/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1175/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1175/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1179/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1179/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1180/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1180/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="828">
+              <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -86,7 +93,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545300799946" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Projects/Project01/Project0101" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -129,9 +136,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -162,8 +168,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="828">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
         </state>
       </provider>
     </entry>

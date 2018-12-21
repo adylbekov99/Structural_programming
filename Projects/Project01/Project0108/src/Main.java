@@ -1,64 +1,122 @@
+<<<<<<< HEAD
 import processing.core.PApplet;
 
+import javax.swing.*;
+import java.awt.*;
+
+
 public class Main extends PApplet {
-    int eartOrbitAngle = 0;
-    int moonOrbitAngle = 0;
-    int planetOrbit = 0;
+
+    float x;
+    float y;
+    float alphaEarth = 0;
+    float alphaMerc = 0;
+    float alphaMoon = 0;
+    float rSun = 100;
+
     public void settings() {
         fullScreen();
-
     }
 
     public void setup() {
-
+        x = width / 2;
+        y = height / 2;
+        frameRate(100);
     }
+
 
     public void draw() {
-        background(0);
-        noStroke();
-
-        //SUN
-        final int SUN_DIAMETER = 200;
-
+        background(0,30,70);
+        pushMatrix();
         translate(width / 2, height / 2);
-        fill(255, 180, 0);
-        ellipse(0, 0, SUN_DIAMETER, SUN_DIAMETER);
+        rotate(alphaMerc);
+        alphaMerc += 0.04f;
+        fill(200, 200, 0);
+        ellipse(0, 0, rSun, rSun);
 
-        //Planet
-        final int PLAN_DIAM = 45;
+        fill(200, 0, 0);
+        ellipse(110, 0, rSun / 4, rSun / 4);
+        popMatrix();
+        pushMatrix();
+        translate(width/2,height/2);
+        rotate(alphaEarth);
+        alphaEarth += 0.01f;
 
-        rotate(radians(planetOrbit));
-        translate(200, 0);
-        fill(255, 0, 200);
-        ellipse(0, 0, PLAN_DIAM, PLAN_DIAM);
+        fill(0,200,0);
+        ellipse(0,200,rSun/2,rSun/2);
 
-        planetOrbit += 1;
 
-        //Earth
+        translate(0,200);
+        rotate(alphaMoon);
+        alphaMoon += 0.07f;
+        fill(100,100,100);
+        ellipse(0,rSun/2, rSun/8, rSun/8);
+        popMatrix();
 
-        final int EARTH_DIAMETER = 50;
-
-        rotate(radians(eartOrbitAngle));
-        translate(250, 0);
-        fill(0xff40abff);
-        ellipse(0, 0, EARTH_DIAMETER, EARTH_DIAMETER);
-
-        eartOrbitAngle += 1;
-
-        //Moon
-
-        final int MOON_DIAMETER = 15;
-
-        rotate(radians(moonOrbitAngle));
-        translate(0, 60);
-        fill(180);
-        ellipse(0, 0, MOON_DIAMETER, MOON_DIAMETER);
-
-        moonOrbitAngle -= 10;
     }
 
-
-    public static void main(String[] args) {
+    public static void main(String... args) {
         PApplet.main("Main");
     }
+=======
+import processing.core.PApplet;
+
+import javax.swing.*;
+import java.awt.*;
+
+
+public class Main extends PApplet {
+
+    float x;
+    float y;
+    float alphaEarth = 0;
+    float alphaMerc = 0;
+    float alphaMoon = 0;
+    float rSun = 100;
+
+    public void settings() {
+        fullScreen();
+    }
+
+    public void setup() {
+        x = width / 2;
+        y = height / 2;
+        frameRate(100);
+    }
+
+
+    public void draw() {
+        background(0,30,70);
+        pushMatrix();
+        translate(width / 2, height / 2);
+        rotate(alphaMerc);
+        alphaMerc += 0.04f;
+        fill(200, 200, 0);
+        ellipse(0, 0, rSun, rSun);
+
+        fill(200, 0, 0);
+        ellipse(110, 0, rSun / 4, rSun / 4);
+        popMatrix();
+        pushMatrix();
+        translate(width/2,height/2);
+        rotate(alphaEarth);
+        alphaEarth += 0.01f;
+
+        fill(0,200,0);
+        ellipse(0,200,rSun/2,rSun/2);
+
+
+        translate(0,200);
+        rotate(alphaMoon);
+        alphaMoon += 0.07f;
+        fill(100,100,100);
+        ellipse(0,rSun/2, rSun/8, rSun/8);
+        popMatrix();
+
+    }
+
+    public static void main(String... args) {
+        PApplet.main("Main");
+    }
+>>>>>>> 6becc31ecf0535cde9041672d21f2c62b7103190
 }

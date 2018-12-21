@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecc05b22-a89d-48a1-8b76-ec7e2967e1e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../URI_1145/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1046/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1046/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../URI_1046/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1046/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1097/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1097/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1144/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1144/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI_1144/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1144/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/URI_1146/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/URI_1146/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1175/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1175/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1179/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1179/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI_1180/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI_1180/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="198">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -61,6 +60,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -72,12 +72,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545293712814" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../URI_1149" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545366583965" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../URI_1079" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,7 +120,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -152,8 +151,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="198">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
